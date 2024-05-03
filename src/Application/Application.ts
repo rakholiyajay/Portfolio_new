@@ -1,5 +1,4 @@
 import * as THREE from 'three';
-
 import Debug from './Utils/Debug';
 import Sizes from './Utils/Sizes';
 import Time from './Utils/Time';
