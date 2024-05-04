@@ -6,7 +6,7 @@
         "build": "webpack --config ./bundler/webpack.prod.js",
         "dev": "webpack serve --config ./bundler/webpack.dev.js",
         "predeploy": "npm run build",
-        "gh-pages": "gh-pages -d build",
+        "gh-pages": "gh-pages -d public",
         "type": "module"
     },
     "dependencies": {
